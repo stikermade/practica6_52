@@ -1,0 +1,27 @@
+/* * {
+    margin:0;
+    padding:0;
+    border: 1px solid blue;
+} */
+
+/* main {
+    background-color: greenyellow;
+} 
+ */
+
+ #pie,#encabezado,aside {
+    background-color: grey;
+ }
+
+ h1,p,article {
+    color: yellow;
+ }
+
+ * {
+    color: grey;
+ }
+
+ #header {
+    color: blue;
+ }
+ 
